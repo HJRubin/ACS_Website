@@ -1,0 +1,6 @@
+<span style='font-size: 2.5em'>WOO HOO</span>
+<p>
+This caption is loaded from a file.<br>
+<i><b>It can contain any valid HTML</b></i>
+<p>
+<font size=-2>The fine print goes here</font>
